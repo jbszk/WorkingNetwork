@@ -1,4 +1,3 @@
-# WorkingNetwork
-I FINALLY MADE SCHOOL NETWORK WORK
-
-nmcli connection modify "ZPSM_Secure" 802-1x.openssl-ciphers "DEFAULT:@SECLEVEL=0"
+# Working Network
+I finally made my school network work
+it was openssl all along
